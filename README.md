@@ -1,4 +1,4 @@
-# 📱 iPhone 15 Pro Showcase  
+# 📱 iPhone 15 Pro 
 
 A visually stunning and interactive website that highlights the features and qualities of the iPhone 15 Pro. Built using cutting-edge web technologies, this project combines modern design and smooth animations to deliver an engaging user experience.  
 
@@ -16,7 +16,7 @@ A visually stunning and interactive website that highlights the features and qua
 Here’s a preview of the website:  
 
 ![Website Preview](.public/assets/images/iphone15.png))  
-Click the link to see a live Demo: [Link Text](https://i-phone-15-pro-five.vercel.app/)
+Click the link to see a live Demo: https://i-phone-15-pro-five.vercel.app/
 
 ---
 
