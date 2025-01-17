@@ -16,6 +16,7 @@ A visually stunning and interactive website that highlights the features and qua
 Here’s a preview of the website:  
 
 ![Website Preview](./public/assets/images/iphone15.png)
+
 Click the link to see a live Demo: https://i-phone-15-pro-five.vercel.app/
 
 ---
